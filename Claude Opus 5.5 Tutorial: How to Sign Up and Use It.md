@@ -34,7 +34,7 @@ Follow these steps to configure your proxy:
 
 Step 1: Select a suitable proxy type in IPFoxy Proxies and obtain a residential proxy for your target region.
 
-<img width="956" height="499" alt="购买1" src="https://github.com/user-attachments/assets/1b32b671-426a-467c-addb-57b768f4c2d2" />
+![Uploading 屏幕截图 2026-10-22 173706.png…]()
 
 Step 2: Download the IPFoxy Proxy Manager extension from the extension store. Enter your IPFoxy user ID and API key in the extension, then save the settings.
 
