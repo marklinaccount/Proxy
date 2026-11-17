@@ -33,7 +33,7 @@ Interstellar Proxy forwards web requests through a server, providing an alternat
 
 Interstellar Proxy includes tab management, theme customization, Tab Cloaking, and collections of apps and games. These features let users manage multiple browsing tabs, customize the interface, and access commonly used apps from one page, reducing unnecessary switching and repetitive operations.
 
-### **Website Testing Across Different Network Environments******
+### **Website Testing Across Different Network Environments**
 
 By deploying Interstellar Proxy on different servers or network environments, developers can compare how the same website loads through different network exits. They can check whether page resources load completely and whether the website is accessible. This helps identify whether an issue may originate from the website itself or the network connection.
 
